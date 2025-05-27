@@ -1,0 +1,2 @@
+It is a To-Do web App build  using the Vanilla Javascript. 
+ocused on building a To-Do List Web App using Vanilla JavaScript for the front-end. The primary objective is to create a dynamic interface where users can add, delete, and mark tasks as complete, enhancing their JavaScript proficiency. The task involves setting up a basic HTML structure, styling it with CSS, and implementing logic using JavaScript to manipulate the DOM in real time. Key concepts covered include event listeners, DOM selection, event delegation, and UI state updates without page reload
